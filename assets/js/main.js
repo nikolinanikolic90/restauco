@@ -188,7 +188,7 @@ function getFooter(){
         <a class="mx-3 fs-3" href="https://www.instagram.com/" target="_blank"><i class="fab fa-instagram"></i></a>
         <a class="mx-3 fs-3" href="https://www.twitter.com/" target="_blank"><i class="fab fa-twitter"></i></a>
         <br/>
-        <a class="mx-3 fs-4 text-decoration-none" href="#" target="_blank">Documentation</a>
+        <a class="mx-3 fs-4 text-decoration-none" href="doc.pdf" target="_blank">Documentation</a>
     </div>`
 
     $("footer").html(ispis)
